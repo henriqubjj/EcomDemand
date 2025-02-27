@@ -7,7 +7,6 @@ O **EcomDemand** é um projeto voltado para a previsão de demanda de múltiplos
 ## Objetivos
 - **Prever a Demanda:** Desenvolver modelos que estimem o volume de vendas dos produtos com base em dados históricos e variáveis externas (como promoções, sazonalidade e eventos).
 - **Segmentar Produtos:** Aplicar técnicas de clusterização para agrupar produtos com comportamentos de vendas semelhantes e construir modelos específicos para cada grupo.
-- **Criar um Pipeline de Dados Completo:** Implementar um processo de coleta, limpeza, transformação e integração dos dados, desde fontes brutas (ex.: web scraping, APIs ou datasets públicos) até a modelagem.
 
 ## Importância do Projeto
 - **Otimização de Estoque:** Previsões precisas permitem reduzir os custos com excesso ou falta de produtos, contribuindo para uma operação mais eficiente.
